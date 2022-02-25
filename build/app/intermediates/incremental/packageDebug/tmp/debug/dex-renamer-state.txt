@@ -1,0 +1,4 @@
+#Sat Feb 26 00:18:11 MMT 2022
+base.0=/Users/apjake/FlutterDev/Flutter Projects/projects/random_number_quiz/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
